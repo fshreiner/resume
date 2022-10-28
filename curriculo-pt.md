@@ -1,10 +1,10 @@
 * * *
-## **Fabio Henrique Shreiner**
+# **Fabio Henrique Shreiner**
 > #### Analista de TI
 > #### Devops
 
 ---
-### **Contatos**
+## **Contatos**
 
 ![LinkedIn](./images/resized-linkedin-icon.svg) Linkedin: [fabio-shreiner](https://www.linkedin.com/in/fabio-shreiner/)
 
