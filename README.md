@@ -24,6 +24,7 @@
 * **Telefone:** (17) 99195-1017
 
 ---
+
 ## **Perfil profissional**
 
 Formado em Sistemas de Informação pela Universidade Unifafibe (2015/2019) e Pós Graduado em Engenharia de Redes de Computadores pela Cruzeiro do Sul (2020/2021), atuo profissionalmente a três anos no ramo da Tecnologia da Informação. Tenho experiência atuando nas áreas de Gestão de Infraestrutura de Empresa, Gestão de Firewall (Sophos), Administração de Servidores (Windows/Linux), Administração de Active Directory (Windows), Microsoft 365, Monitoramento de Infraestrutura (Zabbix/Grafana), Suporte em serviços de TI, Sistemas de Help Desk (Milldesk), dentre outras. 
@@ -48,6 +49,7 @@ Atualmente em meus estudos, busco evoluir na área de IaC (Infraestrutura como C
 | Monitoramento                   | Intermediário |
 
 ---
+
 ## **Línguas**
 - Português: Nativo
 - Inglês: Básico
@@ -55,6 +57,7 @@ Atualmente em meus estudos, busco evoluir na área de IaC (Infraestrutura como C
 
 
 ---
+
 ## **Experiência Profissional**
 
 ### **[Safra Rica](https://www.safrarica.com.br)** (Atual)
@@ -111,24 +114,27 @@ Atualmente em meus estudos, busco evoluir na área de IaC (Infraestrutura como C
     - Atendimento
 
 ---
+
 ## **Histórico Educacional**
 
- ### **[Cruzeiro do Sul Virtual](https://www.cruzeirodosulvirtual.com.br)** (2020 - 2021)
+### **[Cruzeiro do Sul Virtual](https://www.cruzeirodosulvirtual.com.br)** (2020 - 2021)
  - **Pós-Graduação em Engenharia de Redes de Computadores**
  
- ### **[Unifafibe](https://unifafibe.com.br/)** (2015 - 2019)
+### **[Unifafibe](https://unifafibe.com.br/)** (2015 - 2019)
  - **Graduação em Sistemas de Informação**
 
 ---
+
 ## **Certificações**
 
- ### **SFPC** (2020)
+### **SFPC** (2020)
  - Scrum Foundation Professional Certificate by [CertiProf](https://certiprof.com/)
 
 ---
+
 ## **Cursos Certificados**
 
- ### **Formação DevOps (Em Andamento) ** (2022)
+### **Formação DevOps (Em Andamento) ** (2022)
  - Trilha da [Alura](https://www.alura.com.br/) abordando os seguintes tópicos:
    - Terraform
    - Ansible
