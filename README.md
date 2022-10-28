@@ -20,12 +20,12 @@
 [//]: # (    </tr>)
 [//]: # (</table>)
 
-* **E-mail:** fshreiner21@gmail.com
-* **Telefone:** (17) 99195-1017
+**E-mail:** fshreiner21@gmail.com
+**Telefone:** (17) 99195-1017
 
 ---
 
-## **Perfil profissional**
+## **Perfil Profissional**
 
 Formado em Sistemas de Informação pela Universidade Unifafibe (2015/2019) e Pós Graduado em Engenharia de Redes de Computadores pela Cruzeiro do Sul (2020/2021), atuo profissionalmente a três anos no ramo da Tecnologia da Informação. Tenho experiência atuando nas áreas de Gestão de Infraestrutura de Empresa, Gestão de Firewall (Sophos), Administração de Servidores (Windows/Linux), Administração de Active Directory (Windows), Microsoft 365, Monitoramento de Infraestrutura (Zabbix/Grafana), Suporte em serviços de TI, Sistemas de Help Desk (Milldesk), dentre outras. 
 
@@ -33,7 +33,7 @@ Atualmente em meus estudos, busco evoluir na área de IaC (Infraestrutura como C
 
 ---
 
-| **Resumo de habilidades**       | **Level**     |
+| **Resumo de Habilidades**       | **Level**     |
 |:--------------------------------|:--------------|
 | AWS                             | Básico        |
 | Terraform                       | Básico        |
@@ -60,7 +60,7 @@ Atualmente em meus estudos, busco evoluir na área de IaC (Infraestrutura como C
 
 ## **Experiência Profissional**
 
-### **[Safra Rica](https://www.safrarica.com.br)** (Atual)
+### **[Safra Rica Comércio e Rep. de Prod. Agrícolas](https://www.safrarica.com.br)** (Atual)
 
  - **Analista de TI** (Mar. 2022 - Atualmente)
 
