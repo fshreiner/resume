@@ -134,7 +134,7 @@ Atualmente em meus estudos, busco evoluir na área de IaC (Infraestrutura como C
 
 ## **Cursos Certificados**
 
-### **Formação DevOps (Em Andamento) ** (2022)
+### **Formação DevOps (Em Andamento)** (2022)
  - Trilha da [Alura](https://www.alura.com.br/) abordando os seguintes tópicos:
    - Terraform
    - Ansible
