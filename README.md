@@ -1,8 +1,10 @@
 * * *
 # **Fabio Henrique Shreiner**
 ### Analista de TI
-### Devops
-### Sysadmin
+---
+### Estudando para ser:
+    Devops
+    SRE
 
 ---
 ## **Contatos**
@@ -27,7 +29,7 @@
 
 ## **Perfil Profissional**
 
-Formado em Sistemas de Informação pela Universidade Unifafibe (2015/2019) e Pós Graduado em Engenharia de Redes de Computadores pela Cruzeiro do Sul (2020/2021), atuo profissionalmente a três anos no ramo da Tecnologia da Informação. Tenho experiência atuando nas áreas de Gestão de Infraestrutura de Empresa, Gestão de Firewall (Sophos), Administração de Servidores (Windows/Linux), Administração de Active Directory (Windows), Microsoft 365, Monitoramento de Infraestrutura (Zabbix/Grafana), Suporte em serviços de TI, Sistemas de Help Desk (Milldesk), dentre outras. 
+Formado em Sistemas de Informação pela Universidade Unifafibe (2015/2019) e Pós Graduado em Engenharia de Redes de Computadores pela Cruzeiro do Sul (2020/2021), atuo profissionalmente a cinco anos no ramo da Tecnologia da Informação. Tenho experiência atuando nas áreas de Gestão de Infraestrutura de Empresa, Gestão de Firewall (Sophos), Administração de Servidores (Windows/Linux), Administração de Active Directory (Windows), Microsoft 365, Monitoramento de Infraestrutura (Zabbix/Grafana), Suporte em serviços de TI, Sistemas de Help Desk (Milldesk/Service Now), gerenciando de equipamentos EUC (End User Computing), dentre outras habilidades. 
 
 Atualmente em meus estudos, busco evoluir na área de IaC (Infraestrutura como Código), para assim trilhar uma carreira como Plaftform Enginner, SRE, e Devops, estudando ferramentas e tecnologias como Terraform, Ansible, Provedores em Cloud e demais ferramentas para gerir todo ambiente em Nuvem, além de linguagens de programação como Python e Golang.
 
@@ -38,11 +40,12 @@ Atualmente em meus estudos, busco evoluir na área de IaC (Infraestrutura como C
 | AWS                             | Básico        |
 | Terraform                       | Básico        |
 | Ansible                         | Básico        |
+| Kubernetes                      | Básico        |
 | Python                          | Básico        |
 | Gestão de Infraestrutura        | Intermediário |
 | Gestão de Firewalls             | Intermediário |
 | Redes de computadores           | Intermediário |
-| Servidores Linux                | Básico        |
+| Servidores Linux                | Intermediário |
 | Servidores Windows              | Intermediário |
 | Virtualização                   | Intermediário |
 | Bases de dados SQL              | Básico        |
@@ -52,19 +55,31 @@ Atualmente em meus estudos, busco evoluir na área de IaC (Infraestrutura como C
 
 ## **Línguas**
 - Português: Nativo
-- Inglês: Básico
-- Inglês Técnico: Intermediário
-
+- Inglês: Intermediário
 
 ---
 
 ## **Experiência Profissional**
 
-### **[Safra Rica Comércio e Rep. de Prod. Agrícolas](https://www.safrarica.com.br)** (Atual)
+### **[Nutrien Soluções Agrícolas](https://nutrien.com.br/)** (Atual)
 
- - **Analista de TI** (Mar. 2022 - Atualmente)
+ - **Analista de TI Jr** (Abr. 2023 - Atualmente)
+
+    Como Analista de TI Jr, participei de toda a integração da empresa Safra Rica, que foi adquirida pela Multinacional Nutrien AG Solutions, atuando com o time de Redes, CyberSecurity, Serves, para garantir que todo o ambiente Safra Rica estivesse em conformidade para se unir a Nutrien. Após toda a migração, me integrei no time de End User Computing (EUC) da Nutrien, atuando diariamente no gerenciamento, configuração e manutenção de todo parque de equipamentos da empresa no Brasil, bem como participando ativamente de projetos de melhorias para o setor.
+
+    Competências:
+    - Microsoft 365
+    - Service Now
+    - Active Directory
+    - Windows
+    - PaperCut
+
+### **[Safra Rica Comércio e Rep. de Prod. Agrícolas](https://www.safrarica.com.br)**
+
+ - **Analista de TI** (Mar. 2022 - Mar.2023)
 
     Como Analista de TI, atuo na gestão da infraestrutura da empresa, configuração de novos ambientes (Novas Unidades), gestão de firewall, gestão do pacote Microsoft 365, realizo o gerenciamento de servidores locais, negociação de serviços para a empresa, e treinamento de novos colaboradores do setor. 
+
     Competências:
     - Servidor Windows
     - Servidor Linux
@@ -81,6 +96,7 @@ Atualmente em meus estudos, busco evoluir na área de IaC (Infraestrutura como C
  - **Auxiliar de TI** (Out. 2019 - Fev. 2022)
 
     Como Auxiliar de TI, pude me desenvolver na área da Tecnologia da Informação, oferecendo suporte aos colaboradores em diversos aspectos, como solução de problemas no ERP da empresa, configuração de equipamentos, administração de Active Directory, e participei da implantação da plataforma Office 365 na empresa.
+
     Competências:
     - Help Desk
     - Windows 10
@@ -90,28 +106,6 @@ Atualmente em meus estudos, busco evoluir na área de IaC (Infraestrutura como C
     - Administração de Firewall
     - Suporte N2 e N3
     - Implantação de Equipamentos em novas Unidades
-
-
-### **[Nascimento Fiorezi Advogados Associados](https://nfadv.com.br)** (4 Anos e 3 Meses)
-
- - **Auxiliar de Escritório** (Jun. 2019 - Set. 2019)
-
-    Como Auxiliar de Escritório, pude evoluir principalmente no atendimento aos clientes, melhorando minha comunicação, realizando o controle de entrada e saída de dados físicos e eletrônicos no sistema ERP do escritório, efetuando digitalização geral de documentos, recepção e atendimento aos clientes e atendimento telefônico. 
-    Competências:
-    - Comunicação
-    - Atendimento
-    - Pacote Office
-    - Administração de Arquivos
-
-
-### **[Câmara Municipal de Monte Azul Paulista](https://www.camaramonteazul.sp.gov.br)** (1 Ano e 10 Meses)
-
- - **Estagiário** (Mar. 2013 - Dez. 2014)
-
-    Como Estagiário, pude trilhar o início de minha carreira profissional, entendendo e evoluindo com as responsabilidades a mim atribuídas, realizando suporte em geral aos outros colaboradores, lançamento de Notas Fiscais, além de serviços externos da empresa de busca e entrega de documentação.
-    Competências:
-    - Comunicação
-    - Atendimento
 
 ---
 
@@ -127,18 +121,10 @@ Atualmente em meus estudos, busco evoluir na área de IaC (Infraestrutura como C
 
 ## **Certificações**
 
+### **Linux Essentials** (2023)
+ - Linux Professional Institute [LPI](https://www.lpi.org/pt-br/)
+ - [Credencial](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000547862/cc4q83rfen)
+
 ### **SFPC** (2020)
  - Scrum Foundation Professional Certificate by [CertiProf](https://certiprof.com/)
 
----
-
-## **Cursos Certificados**
-
-### **Formação DevOps (Em Andamento)** (2022)
- - Trilha da [Alura](https://www.alura.com.br/) abordando os seguintes tópicos:
-   - Terraform
-   - Ansible
-   - Vagrant
-   - Observability
-   - CI/CD
-   - Docker
