@@ -1,6 +1,6 @@
 # Fabio Henrique Shreiner
 
-**Cloud | DevOps | SRE (Infra & Operações)**  
+**Infra & Operações | Cloud | DevOps | SRE**  
 Monte Azul Paulista, São Paulo, Brasil | (17) 99616-5523 | fshreiner21@gmail.com | https://www.linkedin.com/in/fabio-shreiner/
 
 
@@ -43,7 +43,7 @@ Em processo de especialização em **Cultura DevOps, Engenharia de Plataforma e 
 ### Nutrien Soluções Agrícolas — Analista de TI Jr  
 **Monte Azul Paulista, SP | abr/2023 – set/2024**
 
-- Administração e **sustentação de servidores on-premisse**, apoiando a **continuidade operacional** e a estabilidade do ambiente.
+- Administração e **sustentação de servidores on-premise**, apoiando a **continuidade operacional** e a estabilidade do ambiente.
 - Apoio na **configuração de rotas de firewall** e **diagnóstico de falhas de conectividade**, atuando na resolução de incidentes e prevenção de indisponibilidades.
 - Identificação e correção de **inconsistências de ambiente e ativos**, contribuindo para **padronização**, organização e estabilidade operacional.
 - Forte atuação no **controle de ativos de TI** e **implantação de novo MDM corporativo**, no contexto de **integração e expansão do ambiente**.
