@@ -6,81 +6,98 @@ Monte Azul Paulista, São Paulo, Brasil | (17) 99616-5523 | fshreiner21@gmail.co
 
 ## Resumo Profissional
 
-Profissional de TI com **6 anos de experiência em Infraestrutura e Operações**, atuando com **Linux e Windows**, **Microsoft 365** e **ITSM** (ServiceNow, GLPI).
+Profissional de TI com 6+ anos de experiência em Infraestrutura e Operações, atuando na sustentação de ambientes críticos Linux e Windows, com foco em disponibilidade, estabilidade e resposta a incidentes.
 
-Experiência em **observabilidade** (Zabbix, Grafana), **redes e firewall** (Fortigate, Sophos), **virtualização e conteinerização (Docker)**, com foco em **alta disponibilidade (uptime)**, **resposta a incidentes**, **padronização** e **melhoria contínua**.
+Experiência prática com administração de servidores on-premise, monitoramento com Zabbix e Grafana, redes corporativas, firewalls (Fortigate e Sophos), virtualização e containerização com Docker.
 
-Atuação em **migração de plataformas**, **adequação de redes** e **implantação de infraestrutura física** em ambientes de **grande porte e alta criticidade**, incluindo empresas dos setores de **varejo e agronegócio**, com operações distribuídas nacionalmente.
+Atuação em ambientes distribuídos nacionalmente (varejo e agronegócio), suportando múltiplas unidades e serviços essenciais ao negócio.
 
-Em processo de especialização em **Cultura DevOps, Engenharia de Plataforma e SRE**, com foco em **automação, confiabilidade e boas práticas operacionais**, com interesse em oportunidades como **DevOps Jr, Infra ou SRE Jr**.
+Em transição estruturada para DevOps / SRE, com foco em:
+- Automação de infraestrutura (Terraform – estudos e prática)
+- Cloud AWS
+- Cultura de confiabilidade
+- Boas práticas operacionais e melhoria contínua
 
 
 ## Competências e Habilidades Técnicas
 
-- **Cloud:** AWS (administração e sustentação de servidores); (Estudos)
-- **Sistemas Operacionais:** Linux, Windows, Windows Server
-- **Conteinerização & Virtualização:** Docker; virtualização de servidores (host com múltiplas VMs em produção)
-- **Observabilidade:** Zabbix, Grafana (monitoramento, alertas e atuação em incidentes)
-- **Redes e Segurança:** Sophos Firewall, Fortigate; configuração de rotas e troubleshooting de conectividade
-- **ITSM / Operações:** ServiceNow, GLPI; suporte N1/N2; gestão de incidentes; onboarding/offboarding
-- **Workplace / Identidade:** Microsoft 365 (administração e suporte)
-- **Gestão de Ativos:** controle de ativos, inventário, padronização e MDM corporativo
-- **Custos / Operação:** apoio no controle e acompanhamento de gastos de TI
-
+**Cloud:**
+- Amazon Web Services (AWS) – EC2, VPC, IAM, S3, Route53 e fundamentos de redes (laboratórios práticos)
+- Infraestrutura como Código (Terraform – laboratórios práticos)
+- Versionamento Git (básico)
+  
+**Sistemas Operacionais:**
+- Linux (administração de sistemas, troubleshooting e gerenciamento de serviços)
+- Windows Server
+- Microsoft 365 (administração e gestão do ciclo de vida de usuários)
+  
+**Conteinerização & Virtualização:**
+- Docker (containerização e laboratórios práticos)
+- Ambientes virtualizados com múltiplas VMs em produção
+  
+**Observabilidade:**
+- Zabbix (monitoramento, configuração de triggers e resposta a incidentes)
+- Grafana (criação de dashboards e visualização de métricas)
+  
+**Redes e Segurança:**
+- TCP/IP, roteamento e configuração de firewall
+- Firewall Fortigate
+- Firewall Sophos
+- Troubleshooting de conectividade
+  
+**Operações de TI:**
+- Gestão de incidentes (suporte N1/N2)
+- ServiceNow
+- GLPI
+- Gestão de ativos de TI
+- Implantação de MDM corporativo
+- Processos de onboarding e offboarding
 
 ## Experiência Profissional
 
 ### Grupo Junqueira Rodas — Auxiliar de Infraestrutura e Suporte  
 **Monte Azul Paulista, SP | set/2024 – atual**
-
-- Atuação na **gestão, operação e melhoria contínua da infraestrutura** do Centro Administrativo e propriedades do grupo, garantindo **disponibilidade e estabilidade dos serviços**.
-- Administração de **servidores on-premise (Linux e Windows)**, com foco em **alta disponibilidade**, **troubleshooting** e suporte a ambientes críticos.
-- Responsável pela **administração do Microsoft 365**, incluindo rotinas operacionais, gestão de usuários e suporte às áreas internas.
-- Gestão do **parque de ativos de TI** e **MDM corporativo**, assegurando **padronização**, controle e suporte ao usuário final.
-- Suporte à **conectividade entre o Centro Administrativo e 13 propriedades**, atuando na **resposta a incidentes**, análise de falhas e manutenção da estabilidade do ambiente.
-
+- Administração de servidores Linux e Windows em ambiente on-premise crítico, garantindo alta disponibilidade dos serviços.
+- Suporte e sustentação da infraestrutura do Centro Administrativo e 13 propriedades distribuídas.
+- Administração do Microsoft 365 (gestão de usuários, permissões e rotinas operacionais).
+- Gestão do parque de ativos e MDM corporativo, assegurando padronização e controle.
+- Atuação direta na resposta a incidentes e troubleshooting de conectividade entre unidades.
+**Impacto:** manutenção da estabilidade operacional em ambiente multiunidades com foco em continuidade do negócio.
 
 ### Nutrien Soluções Agrícolas — Analista de TI Jr  
 **Monte Azul Paulista, SP | abr/2023 – set/2024**
-
-- Administração e **sustentação de servidores on-premise**, apoiando a **continuidade operacional** e a estabilidade do ambiente.
-- Apoio na **configuração de rotas de firewall** e **diagnóstico de falhas de conectividade**, atuando na resolução de incidentes e prevenção de indisponibilidades.
-- Identificação e correção de **inconsistências de ambiente e ativos**, contribuindo para **padronização**, organização e estabilidade operacional.
-- Forte atuação no **controle de ativos de TI** e **implantação de novo MDM corporativo**, no contexto de **integração e expansão do ambiente**.
-- Participação ativa na **renovação do parque de TI**, incluindo servidores, endpoints e dispositivos móveis, com organização e suporte ao **rollout**.
-- Suporte **N1/N2** e execução de **onboarding e offboarding** de colaboradores em âmbito nacional, envolvendo acessos, contas e equipamentos.
-- Atuação diária com **Microsoft 365**, **ServiceNow** e **Windows**, apoiando processos operacionais e atendimento corporativo.
-
+- Administração e sustentação de servidores on-premise.
+- Configuração de rotas de firewall e diagnóstico de falhas de conectividade.
+- Suporte N1/N2 com foco em redução de indisponibilidade.
+- Participação na renovação do parque de TI e rollout de novos equipamentos.
+- Implantação e organização de MDM corporativo.
+- Atuação com Microsoft 365 e ServiceNow.
+**Impacto:** melhoria na padronização do ambiente e aumento da estabilidade operacional.
 
 ### Safra Rica — Analista de TI  
 **Monte Azul Paulista, SP | mar/2022 – mar/2023**
-
-- Responsável pela **sustentação do uptime de toda a infraestrutura**, suportando a operação da empresa.
-- Gestão de **100+ ativos de TI**, incluindo inventário, padronização, manutenção e suporte contínuo.
-- Configuração, suporte e monitoramento de **redes em 9+ lojas**, ampliando **visibilidade operacional** e **agilidade na resposta a incidentes**.
-- Atuação em **ambiente Cisco**, com troubleshooting de conectividade e resolução de falhas de rede.
-- Operação de **ambiente de virtualização**, mantendo **9 servidores virtualizados (VMs)** em produção.
-- Uso de **Docker** em rotinas de **conteinerização** e **estudos práticos aplicados** ao ambiente.
-- Monitoramento e atuação em incidentes com **Zabbix** e **Grafana**, apoiando estabilidade e confiabilidade dos serviços.
-- Apoio no **controle de custos operacionais de TI**, contribuindo para eficiência da operação.
-
+- Sustentação do uptime de toda a infraestrutura da empresa.
+- Gestão de 100+ ativos de TI.
+- Monitoramento com Zabbix e Grafana.
+- Administração de 9 servidores virtualizados em produção.
+- Atuação em redes de 9+ lojas com ambiente Cisco.
+- Uso de Docker em rotinas de containerização e estudos aplicados.
+**Impacto:** aumento de visibilidade operacional e melhoria na resposta a incidentes.
 
 ### Safra Rica — Auxiliar de TI  
 **Monte Azul Paulista, SP | out/2019 – mar/2022**
-
-- Suporte em **incidentes de infraestrutura** e atendimento aos colaboradores, garantindo continuidade das operações.
-- Apoio na **operação diária do ambiente**, com atividades de troubleshooting, manutenção e **escalonamento técnico** quando necessário.
-
+- Suporte a incidentes de infraestrutura.
+- Apoio à operação diária do ambiente.
+- Escalonamento técnico e troubleshooting.
 
 ## Certificações
-
-- **LPI Linux Essentials** — Linux Professional Institute
+- **LPI Linux Essentials** - Linux Professional Institute
+- **AWS Solutions Architect Associate** - Em preparação
 
 
 ## Formação Acadêmica
-
 - **Pós-Graduação em Engenharia de Redes de Computadores** — Cruzeiro do Sul Virtual  
   *ago/2020 – set/2021*
-
 - **Bacharelado em Sistemas de Informação** — UNIFAFIBE  
   *fev/2015 – nov/2019*
+
