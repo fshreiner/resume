@@ -66,7 +66,9 @@ Em transição estruturada para DevOps / SRE, com foco em AWS e IaC com Terrafor
 ## Projetos Pessoais
 
 ### AWS Infrastructure with Terraform
+
 [github.com/fabio-shreiner](https://github.com/fshreiner/terraform-aws-nginx) 
+
 Provisionamento de infraestrutura AWS production-ready utilizando Terraform com módulos reutilizáveis e stacks independentes, seguindo princípios de isolamento e separação de responsabilidades.
 
 - **Stack Network:** VPC customizada com subnets públicas e privadas, Internet Gateway, NAT Gateway e Route Tables
