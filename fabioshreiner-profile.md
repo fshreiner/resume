@@ -1,57 +1,27 @@
 # Fabio Henrique Shreiner
 
 **Infra & Operações | Cloud | DevOps | SRE**  
-Monte Azul Paulista, São Paulo, Brasil | (17) 99616-5523 | fshreiner21@gmail.com | https://www.linkedin.com/in/fabio-shreiner/
+Monte Azul Paulista, São Paulo, Brasil | (17) 99616-5523 | fshreiner21@gmail.com | [www.linkedin.com/in/fabio-shreiner](https://www.linkedin.com/in/fabio-shreiner/)
 
 
 ## Resumo Profissional
 
 Profissional de TI com 6+ anos de experiência em Infraestrutura e Operações, atuando na sustentação de ambientes críticos Linux e Windows, com foco em disponibilidade, estabilidade e resposta a incidentes.
-
 Experiência prática com administração de servidores on-premise, monitoramento com Zabbix e Grafana, redes corporativas, firewalls (Fortigate e Sophos), virtualização e containerização com Docker.
-
 Atuação em ambientes distribuídos nacionalmente (varejo e agronegócio), suportando múltiplas unidades e serviços essenciais ao negócio.
 
-Em transição estruturada para DevOps / SRE, com foco em:
-- Automação de infraestrutura (Terraform – estudos e prática)
-- Cloud AWS
-- Cultura de confiabilidade
-- Boas práticas operacionais e melhoria contínua
+Em transição estruturada para DevOps / SRE, com foco em AWS e IaC com Terraform, com laboratórios práticos em EC2, VPC, IAM, S3.
 
 
 ## Competências e Habilidades Técnicas
 
-**Cloud:**
-- Amazon Web Services (AWS) – EC2, VPC, IAM, S3, Route53 e fundamentos de redes (laboratórios práticos)
-- Infraestrutura como Código (Terraform – laboratórios práticos)
-- Versionamento Git (básico)
-  
-**Sistemas Operacionais:**
-- Linux (administração de sistemas, troubleshooting e gerenciamento de serviços)
-- Windows Server
-- Microsoft 365 (administração e gestão do ciclo de vida de usuários)
-  
-**Conteinerização & Virtualização:**
-- Docker (containerização e laboratórios práticos)
-- Ambientes virtualizados com múltiplas VMs em produção
-  
-**Observabilidade:**
-- Zabbix (monitoramento, configuração de triggers e resposta a incidentes)
-- Grafana (criação de dashboards e visualização de métricas)
-  
-**Redes e Segurança:**
-- TCP/IP, roteamento e configuração de firewall
-- Firewall Fortigate
-- Firewall Sophos
-- Troubleshooting de conectividade
-  
-**Operações de TI:**
-- Gestão de incidentes (suporte N1/N2)
-- ServiceNow
-- GLPI
-- Gestão de ativos de TI
-- Implantação de MDM corporativo
-- Processos de onboarding e offboarding
+- Cloud: AWS (EC2, S3, IAM, VPC, Route53)
+- IaC: Terraform
+- Containers: Docker
+- Observabilidade: Zabbix, Grafana
+- SO: Linux, Windows Server
+- Redes/Segurança: TCP/IP, Fortigate, Sophos
+- Versionamento: Git
 
 ## Experiência Profissional
 
@@ -92,12 +62,21 @@ Em transição estruturada para DevOps / SRE, com foco em:
 
 ## Certificações
 - **LPI Linux Essentials** - Linux Professional Institute
-- **AWS Solutions Architect Associate** - Em preparação
 
+## Projetos Pessoais
+
+### AWS Infrastructure with Terraform
+[github.com/fabio-shreiner](https://github.com/fshreiner/terraform-aws-nginx) 
+Provisionamento de infraestrutura AWS production-ready utilizando Terraform com módulos reutilizáveis e stacks independentes, seguindo princípios de isolamento e separação de responsabilidades.
+
+- **Stack Network:** VPC customizada com subnets públicas e privadas, Internet Gateway, NAT Gateway e Route Tables
+- **Stack Compute:** Application Load Balancer, Auto Scaling Group, Launch Templates e instâncias EC2 Ubuntu/Nginx em subnets privadas — sem exposição direta à internet
+- Arquitetura orientada a segurança: todo o tráfego externo roteado exclusivamente via ALB, isolando as instâncias da camada pública
+  
+`Terraform` `AWS` `EC2` `VPC` `ALB` `ASG` `IaC`
 
 ## Formação Acadêmica
 - **Pós-Graduação em Engenharia de Redes de Computadores** — Cruzeiro do Sul Virtual  
   *ago/2020 – set/2021*
 - **Bacharelado em Sistemas de Informação** — UNIFAFIBE  
   *fev/2015 – nov/2019*
-
