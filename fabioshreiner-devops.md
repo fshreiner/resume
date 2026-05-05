@@ -1,27 +1,46 @@
 # Fabio Henrique Shreiner
 
-**Infra & Operações | Cloud | DevOps | SRE**  
-Monte Azul Paulista, São Paulo, Brasil | (17) 99616-5523 | fshreiner21@gmail.com | [www.linkedin.com/in/fabio-shreiner](https://www.linkedin.com/in/fabio-shreiner/)
+**Cloud | DevOps | Infraestrutura | AWS | Terraform**  
+Monte Azul Paulista, São Paulo, Brasil | (17) 99616-5523 | fshreiner21@gmail.com  
+[www.linkedin.com/in/fabio-shreiner](https://www.linkedin.com/in/fabio-shreiner/)  
+[github.com/fabio-shreiner](https://github.com/fshreiner/terraform-aws-nginx)
 
 
 ## Resumo Profissional
 
 Profissional de TI com 6+ anos de experiência em Infraestrutura e Operações, atuando na sustentação de ambientes críticos Linux e Windows, com foco em disponibilidade, estabilidade e resposta a incidentes.
-Experiência prática com administração de servidores on-premise, monitoramento com Zabbix e Grafana, redes corporativas, firewalls (Fortigate e Sophos), virtualização e containerização com Docker.
-Atuação em ambientes distribuídos nacionalmente (varejo e agronegócio), suportando múltiplas unidades e serviços essenciais ao negócio.
 
-Em transição estruturada para DevOps / SRE, com foco em AWS e IaC com Terraform, com laboratórios práticos em EC2, VPC, IAM, S3.
+Experiência prática com administração de servidores on-premise, monitoramento com Zabbix e Grafana, redes corporativas, firewalls (Fortigate e Sophos), virtualização e containerização com Docker.
+
+Atualmente focado em transição estruturada para DevOps / SRE, com foco em AWS e IaC com Terraform, com experiência em laboratórios práticos em construção de ambientes escaláveis e seguros na AWS, incluindo VPC, EC2, Load Balancer e Auto Scaling, seguindo boas práticas de arquitetura e isolamento de rede.
 
 
 ## Competências e Habilidades Técnicas
 
-- Cloud: AWS (EC2, S3, IAM, VPC, Route53)
-- IaC: Terraform
+- Cloud: AWS (EC2, S3, IAM, VPC, ALB, Auto Scaling, Route53)
+- Infraestrutura como Código: Terraform
+- CI/CD: GitHub Actions
 - Containers: Docker
 - Observabilidade: Zabbix, Grafana
-- SO: Linux, Windows Server
+- Sistemas: Linux, Windows Server
 - Redes/Segurança: TCP/IP, Fortigate, Sophos
 - Versionamento: Git
+
+
+## Projetos Práticos
+
+### AWS Infrastructure with Terraform
+
+[github.com/fabio-shreiner](https://github.com/fshreiner/terraform-aws-nginx) 
+
+Provisionamento de infraestrutura AWS production-ready utilizando Terraform com módulos reutilizáveis e stacks independentes, seguindo princípios de isolamento e separação de responsabilidades.
+
+- **Stack Network:** VPC customizada com subnets públicas e privadas, Internet Gateway, NAT Gateway e Route Tables
+- **Stack Compute:** Application Load Balancer, Auto Scaling Group, Launch Templates e instâncias EC2 Ubuntu/Nginx em subnets privadas — sem exposição direta à internet
+- Arquitetura orientada a segurança: todo o tráfego externo roteado exclusivamente via ALB, isolando as instâncias da camada pública
+  
+*Terraform · AWS · EC2 · VPC · ALB · ASG · IaC*
+
 
 ## Experiência Profissional
 
@@ -64,25 +83,13 @@ Em transição estruturada para DevOps / SRE, com foco em AWS e IaC com Terrafor
 - Apoio à operação diária do ambiente.
 - Escalonamento técnico e troubleshooting.
 
-## Certificações
-- **LPI Linux Essentials** - Linux Professional Institute
-
-## Projetos Pessoais
-
-### AWS Infrastructure with Terraform
-
-[github.com/fabio-shreiner](https://github.com/fshreiner/terraform-aws-nginx) 
-
-Provisionamento de infraestrutura AWS production-ready utilizando Terraform com módulos reutilizáveis e stacks independentes, seguindo princípios de isolamento e separação de responsabilidades.
-
-- **Stack Network:** VPC customizada com subnets públicas e privadas, Internet Gateway, NAT Gateway e Route Tables
-- **Stack Compute:** Application Load Balancer, Auto Scaling Group, Launch Templates e instâncias EC2 Ubuntu/Nginx em subnets privadas — sem exposição direta à internet
-- Arquitetura orientada a segurança: todo o tráfego externo roteado exclusivamente via ALB, isolando as instâncias da camada pública
-  
-*Terraform · AWS · EC2 · VPC · ALB · ASG · IaC*
 
 ## Formação Acadêmica
 - **Pós-Graduação em Engenharia de Redes de Computadores** — Cruzeiro do Sul Virtual  
   *ago/2020 – set/2021*
 - **Bacharelado em Sistemas de Informação** — UNIFAFIBE  
   *fev/2015 – nov/2019*
+
+
+## Certificações
+- **LPI Linux Essentials** - Linux Professional Institute
